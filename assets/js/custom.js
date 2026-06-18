@@ -13,7 +13,7 @@
       breakpoints: {
         768: { slidesPerView: 3, spaceBetween: 14 },
         1024: { slidesPerView: 4, spaceBetween: 16 },
-        1280: { slidesPerView: 5, spaceBetween: 16 },
+        1280: { slidesPerView: 4.1, spaceBetween: 16 },
       },
     });
 
